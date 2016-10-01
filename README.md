@@ -1,2 +1,30 @@
 # must-read
 must read materials for Go AI Project
+
+If you think anything is a must-read to our project, please feel free to attach it here.
+
+## Go rules
+
+- [围棋入门教程,  聂卫平, 2003](https://book.douban.com/subject/1148537/), [pdf](https://pan.baidu.com/s/1i3fFNRv)
+    - Don't stuck in details
+- [English wikipedia](https://en.wikipedia.org/wiki/Rules_of_go)
+- [Tutorial with illustration](http://www.learngo.co.uk/GoTutor/Tutor.php)
+
+## AI of games
+- *Max-min search & alpha-beta pruning & ...* AI textbook
+
+## Deep learning
+- [Standford DL wiki](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+    - read chapter 1,2, 4, 5, 6, 8
+- [Deep reinforcement learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
+
+## Gtp (Go text protocol)
+- [Original draft](https://www.lysator.liu.se/~gunnar/gtp/gtp2-spec-draft2.pdf) (Have a glance at commands)
+- [Use cases of our library](https://github.com/sjtu-ai-go/gtplib/tree/master/test)
+
+## AI go
+- [Overview website](http://www.computer-go.info/)
+- [Current status of AI Go(2009)](http://pasky.or.cz//go/compgo-r2.pdf)
+- [Facebook Darkforest paper](https://arxiv.org/pdf/1511.06410.pdf) (important)
+- [DarkforestGo code](https://github.com/facebookresearch/darkforestGo)
+- [Google Alphago paper](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf) (too short, no code or data)
