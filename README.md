@@ -9,9 +9,11 @@ If you think anything is a must-read to our project, please feel free to attach 
     - Don't stuck in details
 - [English wikipedia](https://en.wikipedia.org/wiki/Rules_of_go)
 - [Tutorial with illustration](http://www.learngo.co.uk/GoTutor/Tutor.php)
+- [邱百瑞-围棋入门（流畅）](http://www.tudou.com/programs/view/FGTKODOrjTc/)
 
 ## AI of games
 - *Max-min search & alpha-beta pruning & ...* AI textbook
+- [棋类AI一般的实现方法(以六子棋为例）](https://www.zhihu.com/question/29472711/answer/45436565)
 
 ## Deep learning
 - [Standford DL wiki](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
