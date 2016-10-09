@@ -14,6 +14,7 @@ If you think anything is a must-read to our project, please feel free to attach 
 ## AI of games
 - *Max-min search & alpha-beta pruning & ...* AI textbook
 - [棋类AI一般的实现方法(以六子棋为例）](https://www.zhihu.com/question/29472711/answer/45436565)
+- [五子棋的决策树实现（选择决策标准）（非alpha-beta）](https://github.com/MashiMaroLjc/ML-and-DM-in-action/tree/master/BetaMeow)
 
 ## Deep learning
 - [Standford DL wiki](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
